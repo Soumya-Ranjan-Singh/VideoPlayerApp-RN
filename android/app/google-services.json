@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450087405598",
+    "project_id": "instaclone-70729",
+    "storage_bucket": "instaclone-70729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450087405598:android:73b890e61d9ee5e310060f",
+        "android_client_info": {
+          "package_name": "com.chatnplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450087405598-b911n7g47a4v1328fq9hhepsjb0ldga8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatnplay",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "450087405598-5b81mdkciim75cgua5kq6j8h26hie9kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcp1wpId6F67gEDEdEnuEWcFi0syxFq7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450087405598-5b81mdkciim75cgua5kq6j8h26hie9kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
